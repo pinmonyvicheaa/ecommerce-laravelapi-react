@@ -11,11 +11,13 @@
 ## + How to Run:
 - Terminal: Tab 1 (ecommerce-laravel-api)
 ```
+cd ecommerce-laravel-api
 php artisan serve
 ```
 
 - Terminal: Tab 2 (ecommerce-reactjs-api)
 ```
+cd ecommerce-reactjs-api
 npm run dev
 ```
 
