@@ -9,6 +9,7 @@
 - README: https://github.com/pinmonyvicheaa/ecommerce-reactjs-api
 
 ## + How to Run:
+Step 1: Terminal
 - Terminal: Tab 1 (ecommerce-laravel-api)
 ```
 cd ecommerce-laravel-api
@@ -21,4 +22,8 @@ cd ecommerce-reactjs-api
 npm run dev
 ```
 
+Step 2: Run
+```
+http://localhost:5173/
+```
 
