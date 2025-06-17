@@ -27,3 +27,13 @@ Step 2: Run
 http://localhost:5173/
 ```
 
+## Test Dashboard
+- Login Admin
+```
+http://localhost:5173/admin
+```
+
+- Category
+```
+Add Category before you add Product.
+```
